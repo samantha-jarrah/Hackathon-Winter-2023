@@ -1,4 +1,4 @@
-# chum_bucket_supreme
+# Hackathon Winter 2023
 
 ## Inspiration
 The topic of the Hackathon was Health and Healthcare. In recent years, mental health and wellness has come to the forefront of health discussions. With our project, our team wanted to provide value and problem solving to the healthcare field involving those affected by mental health problems through data analysis. As one of our teammates is a former music educator, we were drawn to the idea of exploring the connection between music and mental health. 
